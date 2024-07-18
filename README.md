@@ -41,13 +41,14 @@
   Please provide any feedback, issues, errors or best practices that can be applied to this application in the future to the email address listed in this README file
 
   ## Testing
-  Testing was done will the applicaton was being coding and tested several times after it's completion. 
+  Testing was done while the applicaton was being coding and tested several times after it's completion. 
 
   ## Site-URL
   This application was not launched but there is a video of the application in the screenshot section of this README.
 
   ## Screenshots
-  
+  [Untitled Video July 18, 2024 5_31 PM.webm](https://github.com/user-attachments/assets/afb59029-3da4-4023-a535-862bd89778f1)
+
 
   ## Questions?
   Any questions regarding this project can be answered by contacting me through my GitHub Profile at https://github.com/arrozconpollo220 or at my email address at alexander.rodriguez2121@gmail.com. 
